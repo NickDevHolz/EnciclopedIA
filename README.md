@@ -1,6 +1,6 @@
-# EnciclopedIA  искусственный интеллект 🤖
+# EnciclopedIA  🤖
 
-Sua enciclopédia de bolso para ferramentas de Inteligência Artificial. Encontre a IA perfeita para qualquer tarefa, de forma rápida e intuitiva.
+Sua enciclopédia para buscar ferramentas de Inteligência Artificial. Encontre a IA perfeita para qualquer tarefa, de forma rápida e intuitiva.
 
 ![Badge do Projeto](https://img.shields.io/badge/Status-Finalizado-238636?style=for-the-badge)
 ![Badge da Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-58a6ff?style=for-the-badge)
@@ -44,5 +44,4 @@ Este projeto foi construído utilizando tecnologias web fundamentais, com foco n
 
 ---
 
-## 📂 Estrutura do Projeto
 
