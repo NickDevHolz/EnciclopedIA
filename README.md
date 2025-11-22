@@ -2,7 +2,7 @@
 
 Sua enciclopédia para buscar ferramentas de Inteligência Artificial. Encontre a IA perfeita para qualquer tarefa, de forma rápida e intuitiva.
 
-![Badge do Projeto](https://img.shields.io/badge/Status-Finalizado-238636?style=for-the-badge)
+
 
 ---
 
