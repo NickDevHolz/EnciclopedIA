@@ -6,13 +6,7 @@ Sua enciclopédia para buscar ferramentas de Inteligência Artificial. Encontre 
 
 ---
 
-### 🖼️ Demonstração
 
-*Substitua o link abaixo por um screenshot ou GIF do seu projeto em ação!*
-
-![Demonstração do Projeto](https://i.imgur.com/link-para-sua-imagem.png)
-
----
 
 ## 🎯 Sobre o Projeto
 
