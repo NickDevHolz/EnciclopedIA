@@ -1,0 +1,168 @@
+/* Importa a fonte do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* Estilos Gerais */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #0d1117; /* Fundo escuro, similar ao GitHub */
+    color: #c9d1d9; /* Cor de texto clara */
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Cabeçalho */
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #f0f6fc;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+header h1 span {
+    color: #58a6ff; /* Azul vibrante para destaque */
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #8b949e; /* Cinza mais suave para o subtítulo */
+    max-width: 600px; /* Limita a largura do parágrafo */
+    margin: 10px auto 0; /* Centraliza o parágrafo e adiciona um pequeno espaço */
+    line-height: 1.5; /* Melhora a legibilidade */
+}
+
+/* Conteúdo Principal */
+main {
+    width: 100%;
+    max-width: 650px;
+    text-align: center;
+}
+
+.container-busca {
+    background-color: #161b22; /* Cor do container um pouco mais clara */
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid #30363d; /* Borda sutil */
+    margin-bottom: 40px;
+    transition: all 0.3s ease;
+}
+
+.exemplos-busca {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.botao-exemplo {
+    background-color: transparent;
+    color: #8b949e;
+    border: 1px solid #30363d;
+    padding: 10px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.botao-exemplo:hover {
+    background-color: #30363d;
+    color: #c9d1d9;
+    border-color: #8b949e;
+}
+
+.divisor {
+    color: #484f58;
+    margin: 20px 0;
+    font-weight: 600;
+}
+
+.pesquisa-manual {
+    display: flex;
+    gap: 10px;
+    position: relative;
+}
+
+#caixa-busca {
+    flex-grow: 1;
+    padding: 12px;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    font-size: 1rem;
+    background-color: #0d1117;
+    color: #c9d1d9;
+    transition: all 0.2s ease;
+}
+
+#caixa-busca:focus {
+    outline: none;
+    border-color: #58a6ff;
+    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.2);
+}
+
+#botao-pesquisar {
+    padding: 12px 20px;
+    background-color: #238636; /* Verde para ação principal */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+}
+
+#botao-pesquisar:hover {
+    background-color: #2ea043;
+}
+
+/* Seção de Resultados */
+#resultados {
+    text-align: left;
+    padding: 0;
+    background-color: transparent;
+    border-radius: 10px;
+    line-height: 1.6;
+}
+
+#resultados p {
+    margin: 0 0 15px 0;
+    color: #8b949e;
+    font-size: 1.1rem;
+}
+
+#resultados ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#resultados li {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    transition: all 0.2s ease;
+}
+
+#resultados li:hover {
+    border-color: #58a6ff;
+    transform: translateY(-2px);
+}
+
+#resultados a {
+    color: #c9d1d9;
+    text-decoration: none;
+    font-weight: 600;
+}

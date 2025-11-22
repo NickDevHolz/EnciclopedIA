@@ -1,0 +1,209 @@
+{
+  "musica": {
+    "titulo": "Para criar músicas com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Suno AI", "link": "https://suno.com" },
+      { "nome": "MusicFull", "link": "https://musicfull.com" }
+    ]
+  },
+
+  "letra_musica": {
+    "titulo": "Para criar letras de músicas com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "ChatGPT", "link": "https://chat.openai.com" },
+      { "nome": "Claude AI", "link": "https://claude.ai" },
+      { "nome": "Gemini", "link": "https://gemini.google.com" },
+      { "nome": "Suno AI (modo letra)", "link": "https://suno.com" }
+    ]
+  },
+
+  "imagem": {
+    "titulo": "Para criar imagens com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Ideogram", "link": "https://ideogram.ai" },
+      { "nome": "Midjourney", "link": "https://www.midjourney.com" },
+      { "nome": "DALL·E", "link": "https://openai.com" }
+    ]
+  },
+
+  "editar_imagem": {
+    "titulo": "Para editar imagens com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Remini", "link": "https://remini.ai" },
+      { "nome": "Canva IA", "link": "https://canva.com" },
+      { "nome": "Adobe Firefly", "link": "https://www.adobe.com/sensei.html" }
+    ]
+  },
+
+  "video": {
+    "titulo": "Para criar vídeos com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Runway Gen-2", "link": "https://runwayml.com" },
+      { "nome": "Pika Labs", "link": "https://pika.art" }
+    ]
+  },
+
+  "editar_video": {
+    "titulo": "Para editar vídeos com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "CapCut AI", "link": "https://capcut.com" },
+      { "nome": "Descript", "link": "https://www.descript.com" },
+      { "nome": "Adobe Premiere Sensei", "link": "https://www.adobe.com" }
+    ]
+  },
+
+  "audio": {
+    "titulo": "Para criar ou editar áudio com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Adobe Podcast", "link": "https://podcast.adobe.com" },
+      { "nome": "ElevenLabs", "link": "https://elevenlabs.io" }
+    ]
+  },
+
+  "voz": {
+    "titulo": "Para gerar vozes com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "ElevenLabs", "link": "https://elevenlabs.io" },
+      { "nome": "PlayHT", "link": "https://play.ht" },
+      { "nome": "Azure Voice Studio", "link": "https://azure.microsoft.com" }
+    ]
+  },
+
+  "ocr": {
+    "titulo": "Para transformar imagem em texto (OCR) com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Google Document AI", "link": "https://cloud.google.com/document-ai" },
+      { "nome": "Adobe Scan IA", "link": "https://www.adobe.com" },
+      { "nome": "Textify AI", "link": "https://textify.ai" }
+    ]
+  },
+
+  "3d": {
+    "titulo": "Para criar modelos 3D com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Tripo AI", "link": "https://www.tripo3d.ai" },
+      { "nome": "Luma AI", "link": "https://lumalabs.ai" }
+    ]
+  },
+
+  "pesquisa": {
+    "titulo": "Para pesquisar usando IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "ChatGPT", "link": "https://chat.openai.com" },
+      { "nome": "DeepSeek", "link": "https://deepseek.com" },
+      { "nome": "Gemini", "link": "https://gemini.google.com" }
+    ]
+  },
+
+  "texto": {
+    "titulo": "Para escrever e editar textos com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "ChatGPT", "link": "https://chat.openai.com" },
+      { "nome": "Claude", "link": "https://claude.ai" },
+      { "nome": "Gemini", "link": "https://gemini.google.com" },
+      { "nome": "Grammarly", "link": "https://grammarly.com" },
+      { "nome": "QuillBot", "link": "https://quillbot.com" },
+      { "nome": "WordTune", "link": "https://wordtune.com" }
+    ]
+  },
+
+  "codigo": {
+    "titulo": "Para gerar ou analisar código com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "GitHub Copilot", "link": "https://github.com/features/copilot" },
+      { "nome": "Cursor IDE", "link": "https://cursor.sh" },
+      { "nome": "Replit AI", "link": "https://replit.com" },
+      { "nome": "Tabnine", "link": "https://tabnine.com" },
+      { "nome": "Gemini Code Assist", "link": "https://gemini.google.com" },
+      { "nome": "ChatGPT", "link": "https://chat.openai.com" }
+    ]
+  },
+
+  "criar_site": {
+    "titulo": "Para criar sites automaticamente com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Framer AI", "link": "https://framer.com" },
+      { "nome": "Durable AI", "link": "https://durable.co" },
+      { "nome": "Dorik AI", "link": "https://dorik.com" },
+      { "nome": "V0.dev", "link": "https://v0.dev" },
+      { "nome": "Lovable", "link": "https://lovable.ai" }
+    ]
+  },
+
+  "chatbot": {
+    "titulo": "Para criar chatbots automáticos com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "ManyChat", "link": "https://manychat.com" },
+      { "nome": "Botpress", "link": "https://botpress.com" },
+      { "nome": "ZapGPT", "link": "https://zapgpt.com" },
+      { "nome": "Tiledesk", "link": "https://tiledesk.com" }
+    ]
+  },
+
+  "ppt": {
+    "titulo": "Para criar apresentações com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Gamma App", "link": "https://gamma.app" },
+      { "nome": "Tome AI", "link": "https://tome.app" },
+      { "nome": "Beautiful.ai", "link": "https://beautiful.ai" }
+    ]
+  },
+
+  "pdf": {
+    "titulo": "Para analisar ou resumir PDFs com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "ChatPDF", "link": "https://chatpdf.com" },
+      { "nome": "Humata AI", "link": "https://www.humata.ai" },
+      { "nome": "UPDF AI", "link": "https://updf.com" }
+    ]
+  },
+
+  "marketing": {
+    "titulo": "Para criar textos, anúncios e estratégias de marketing com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Jasper AI", "link": "https://jasper.ai" },
+      { "nome": "Copy.ai", "link": "https://copy.ai" },
+      { "nome": "Writesonic", "link": "https://writesonic.com" }
+    ]
+  },
+
+  "avatar": {
+    "titulo": "Para criar avatares e rostos com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Reface", "link": "https://reface.app" },
+      { "nome": "Artbreeder", "link": "https://artbreeder.com" },
+      { "nome": "Lensa AI", "link": "https://prisma-ai.com/lensa" }
+    ]
+  },
+
+  "negocios": {
+    "titulo": "Para criar soluções de negócios com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "BizPlanner AI", "link": "https://bizplanner.ai" },
+      { "nome": "Microsoft Copilot", "link": "https://microsoft.com" },
+      { "nome": "Notion AI", "link": "https://notion.so" }
+    ]
+  },
+
+  "jogos": {
+    "titulo": "Para criar jogos com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Unity AI", "link": "https://unity.com/ai" },
+      { "nome": "Rosebud AI", "link": "https://www.rosebud.ai/" },
+      { "nome": "Ludo.ai", "link": "https://ludo.ai/" },
+      { "nome": "Meshy AI (modelos 3D)", "link": "https://www.meshy.ai/" },
+      { "nome": "Lovable", "link": "https://lovable.ai" }
+    ]
+  },
+
+  "aplicativos": {
+    "titulo": "Para criar aplicativos com IA, as IAs recomendadas são:",
+    "ias": [
+      { "nome": "Jotform AI App Builder", "link": "https://www.jotform.com/products/apps/ai-app-builder/" },
+      { "nome": "AppMaster", "link": "https://appmaster.io/" },
+      { "nome": "TensorFlow (para desenvolvedores)", "link": "https://www.tensorflow.org/" },
+      { "nome": "Dialogflow (chatbots)", "link": "https://cloud.google.com/dialogflow" },
+      { "nome": "Lovable", "link": "https://lovable.ai" }
+    ]
+  }
+}
